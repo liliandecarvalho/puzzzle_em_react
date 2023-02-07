@@ -6,11 +6,11 @@ Jogo da memória feito em React
 | -------------  | --- |
 | :sparkles: Nome        | **Jogo da Memória em REACT**
 | :label: Tecnologias | JavaScript, CSS, HTML, React
-| :rocket: URL         | https://url-deploy.com.br
+| :rocket: URL         | https://puzzzle-em-react.vercel.app/
 
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
-![](https://via.placeholder.com/1200x500.png?text=imagem+lindona+do+meu+projeto#vitrinedev)
+![](https://scontent.fssa7-1.fna.fbcdn.net/v/t39.30808-6/329010750_917144419481661_4086434297011300785_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=730e14&_nc_eui2=AeHOqMx0mZrBPyoKbEGRknD_79avKT-t5PDv1q8pP63k8PMvy43xmwXNcI6QWQti9b4TwChBmBqLqb9sAqdJEIhQ&_nc_ohc=UNkbEsPE3QsAX-rvT0t&_nc_ht=scontent.fssa7-1.fna&oh=00_AfAhtbRdtU9jBYvwft5pL4M_RRVJEUEBmaaN_RZlAh_oag&oe=63E560FB#vitrinedev)
 
 ## Detalhes do projeto
 
