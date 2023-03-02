@@ -14,7 +14,37 @@ Jogo da memória feito em React
 
 ## Detalhes do projeto
 
-Jogo da memória desenvolvido para praticar React.
-Para jogar é necessário virar duas cartas por vez.
-Se as cartas foram iguais são retiradas do jogo.
-O jogador vence assim que encontrar todos os pares de cartas.
+Este é um projeto de jogo da memória construído com React, onde você pode testar sua memória encontrando os pares de cartas correspondentes. É uma aplicação web interativa, construída com React e CSS.
+
+Instalação
+Para utilizar a aplicação, você precisará ter instalado o Node.js e o NPM (Node Package Manager) em seu computador. Após a instalação, execute os seguintes comandos em seu terminal:
+
+Clone o repositório em seu computador:
+
+git clone https://github.com/liliandecarvalho/jogo_da_memoria_em_react.git
+Acesse a pasta do projeto:
+cd jogo_da_memoria_em_react
+Instale as dependências:
+npm install
+Inicie a aplicação:
+npm start
+Como jogar
+
+Para jogar o Jogo da Memória em React, siga os seguintes passos:
+
+Clique em duas cartas para revelar seus símbolos.
+Se os símbolos forem iguais, as cartas permanecerão viradas para cima. Caso contrário, elas serão viradas novamente e você terá que tentar encontrar outro par.
+Continue jogando até encontrar todos os pares de cartas.
+
+Contribuição
+Este é um projeto em constante evolução, e sugestões e melhorias são sempre bem-vindas. Se você gostaria de contribuir para o projeto, por favor siga estes passos:
+
+Faça um fork do projeto.
+Faça as mudanças que desejar em sua cópia.
+Envie um pull request com suas mudanças.
+
+Autor
+Este projeto foi criado por Lilian de Carvalho. Se você tiver alguma dúvida ou comentário sobre o projeto, por favor envie um email para contato@liliandecarvalho.com.
+
+Agradecimentos
+Obrigada por jogar o Jogo da Memória em React! Esperamos que este projeto ajude a treinar sua memória e seja divertido.
